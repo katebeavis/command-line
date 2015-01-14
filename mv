@@ -1,0 +1,5 @@
+The 'mv' command is known as the 'move' command. It can be used to move a file from one directory to another:
+mv newtext ~/documents/project - This would move the file 'newtext' from the current directory to the project directory
+
+It can also be used to rename a file:
+mv newtext oldtext - This will rename 'newtext" to 'oldtext'
