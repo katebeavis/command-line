@@ -1,0 +1,6 @@
+The 'grep' command is used to search for specified words or patterns. It can be used to search for a single letter or a string of words within a file, or even for all files ending with a specified file extension.
+grep hello myfile - This will search the file 'myfile' for the word 'hello.'
+grep -i hello myfile - This will do the same but it will ignore case.
+grep -v hello myfile - This will display the lines that don't match.
+grep -n hello myfile - This will display the matching lines with the line number.
+grep hello *.txt - This will display all the .txt files that contain the word hello.
