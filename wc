@@ -1,0 +1,5 @@
+The 'wc' command counts the amount of lines, words and characters in a file.
+wc newfile.txt - This will display the amount of lines, words and characters in 'newfile.txt'
+wc -l newfile.txt - This will display the amount of lines in 'newfile.txt'
+wc -w newfile.txt - This will display the amount of words in 'newfile.txt'
+wc -m newfile.txt - This will display the amount of characters in 'newfile.txt'
